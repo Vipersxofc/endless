@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "eph dance"
+		},
+		{
+			"offsets": [
+				2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eph right"
+		},
+		{
+			"offsets": [
+				6,
+				-8
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eph down"
+		},
+		{
+			"offsets": [
+				-6,
+				-13
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eph up"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eph left"
+		},
+		{
+			"offsets": [
+				6,
+				-4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "eph mil"
+		},
+		{
+			"offsets": [
+				3,
+				-4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "eph mid"
+		},
+		{
+			"offsets": [
+				-1,
+				-11
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "eph miu"
+		},
+		{
+			"offsets": [
+				7,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "eph mir"
+		},
+		{
+			"offsets": [
+				16,
+				-5
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "hey",
+			"indices": [],
+			"name": "eph hey"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "eph hurt"
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": true,
+			"fps": 30,
+			"anim": "scared",
+			"indices": [],
+			"name": "eph shake"
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "eph evaporate"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": true,
+			"fps": 21,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "eph loop"
+		},
+		{
+			"offsets": [
+				32,
+				102
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "eph confirm"
+		},
+		{
+			"offsets": [
+				598,
+				-8
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "attack",
+			"indices": [],
+			"name": "eph attack"
+		},
+		{
+			"offsets": [
+				80,
+				-7
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "preattack",
+			"indices": [],
+			"name": "eph prepare"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/endless_bf",
+	"position": [
+		200,
+		220
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		73,
+		0,
+		130
+	],
+	"camera_position": [
+		270,
+		30
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}
